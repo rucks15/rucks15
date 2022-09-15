@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rucks15
-- 👀 I’m interested in coding
+- 👀 I’m interested in software design & architecture
 - 🌱 I’m currently learning Azure Cloud
 - 💞️ I’m looking to collaborate on Cloud app services
 - 📫 How to reach me email:rucks15@gmail.com
