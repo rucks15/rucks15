@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @rucks15
+- 👋 Hi, I’m Ruckumane
 - 👀 I’m interested in software design & architecture
-- 🌱 I’m currently learning Azure Cloud
-- 💞️ I’m looking to collaborate on Cloud app services
+- 🌱 I’m currently learning Azure Cloud Services
 - 📫 How to reach me email:rucks15@gmail.com
 
 <!---
