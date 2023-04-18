@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ruckumane
 - 👀 I’m interested in software design & architecture
 - 🌱 I’m currently learning Azure Cloud Services
-- 📫 How to reach me email:rucks15@gmail.com
+- 📫 How to reach me email:ruckumaneh@gmail.com
 
 <!---
 rucks15/rucks15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
