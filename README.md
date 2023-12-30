@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Ruckumane
 - 👀 I’m interested in software design & architecture
-- 🌱 I’m currently learning Azure Cloud Services
 - 📫 How to reach me email:ruckumaneh@gmail.com
 - Youtube channel: https://www.youtube.com/playlist?list=PLxO1JoP6D1LFeKWvSuUoyiMIhYB2bUP0u
 - LinkedIn: https://www.linkedin.com/rucks15
